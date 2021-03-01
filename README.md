@@ -1,0 +1,1 @@
+# pterodactyl-optimized-paper-egg
